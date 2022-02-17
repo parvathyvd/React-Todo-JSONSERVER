@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "json-server",
+      "day": "typicode",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "json-server again efesdf",
+      "day": "typicode kjlhflfgj",
+      "reminder": true
+    },
+    {
+      "text": "server",
+      "day": "monday",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
